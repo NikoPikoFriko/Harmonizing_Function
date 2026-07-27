@@ -1,0 +1,63 @@
+{
+  "color": {
+    "deep-void": {
+      "value": "#0B1120",
+      "type": "color",
+      "description": "Primary background - deep void"
+    },
+    "ocean-teal": {
+      "value": "#0D9488",
+      "type": "color",
+      "description": "Primary brand / ocean teal"
+    },
+    "graph-neon": {
+      "value": "#22D3EE",
+      "type": "color",
+      "description": "Accent / graph neon for edges and highlights"
+    },
+    "teal-light": {
+      "value": "#14B8A6",
+      "type": "color"
+    },
+    "neon-dim": {
+      "value": "#06B6D4",
+      "type": "color"
+    },
+    "void-elevated": {
+      "value": "#111827",
+      "type": "color"
+    },
+    "void-surface": {
+      "value": "#1F2937",
+      "type": "color"
+    },
+    "text-primary": {
+      "value": "#F8FAFC",
+      "type": "color"
+    },
+    "text-secondary": {
+      "value": "#94A3B8",
+      "type": "color"
+    },
+    "text-muted": {
+      "value": "#64748B",
+      "type": "color"
+    },
+    "border": {
+      "value": "#334155",
+      "type": "color"
+    },
+    "success": {
+      "value": "#10B981",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#F59E0B",
+      "type": "color"
+    },
+    "error": {
+      "value": "#EF4444",
+      "type": "color"
+    }
+  }
+}
