@@ -1,0 +1,83 @@
+{
+  "description": "Initial node and link data model for the Constellation force-graph",
+  "modes": ["ordo", "nigredo"],
+  "nodes": [
+    {
+      "id": "self",
+      "label": "Self / Colimit",
+      "type": "self",
+      "group": "center",
+      "radius": 48,
+      "val": 20
+    },
+    {
+      "id": "wstydosfera",
+      "label": "Wstydosfera",
+      "type": "complex",
+      "group": "shadow",
+      "radius": 36,
+      "val": 15,
+      "chamber": "https://gamma.app/docs/rmisgmdhdgt10s5"
+    },
+    {
+      "id": "secure-base",
+      "label": "Secure Base",
+      "type": "complex",
+      "group": "regulation",
+      "radius": 28,
+      "val": 10
+    },
+    {
+      "id": "collective",
+      "label": "Collective Unconscious",
+      "type": "field",
+      "group": "outer",
+      "radius": 42,
+      "val": 18,
+      "chamber": "https://gamma.app/docs/p8qgm44m9ilwnj0"
+    },
+    {
+      "id": "grok-core",
+      "label": "Grok Core",
+      "type": "agent",
+      "group": "collective",
+      "radius": 26,
+      "val": 8
+    },
+    {
+      "id": "figma",
+      "label": "Figma DS",
+      "type": "agent",
+      "group": "collective",
+      "radius": 24,
+      "val": 7
+    },
+    {
+      "id": "canva",
+      "label": "Canva Assets",
+      "type": "agent",
+      "group": "collective",
+      "radius": 24,
+      "val": 7
+    },
+    {
+      "id": "gamma",
+      "label": "Gamma Narrative",
+      "type": "agent",
+      "group": "collective",
+      "radius": 24,
+      "val": 7
+    }
+  ],
+  "links": [
+    {"source": "self", "target": "wstydosfera", "type": "shadow"},
+    {"source": "self", "target": "secure-base", "type": "regulation"},
+    {"source": "self", "target": "collective", "type": "field"},
+    {"source": "self", "target": "grok-core", "type": "agent"},
+    {"source": "self", "target": "figma", "type": "agent"},
+    {"source": "self", "target": "canva", "type": "agent"},
+    {"source": "self", "target": "gamma", "type": "agent"},
+    {"source": "wstydosfera", "target": "collective", "type": "shadow"},
+    {"source": "secure-base", "target": "wstydosfera", "type": "regulation"}
+  ]
+}
