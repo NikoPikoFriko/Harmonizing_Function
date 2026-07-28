@@ -32,6 +32,7 @@ Every major decision must pass: **“Would this still feel groundbreaking in 202
 - Instructions = Functor specifications
 - Website = Colimit of agent actions
 - Theme Constitution = Terminal object that all agents map into
+- **Operational Console** = first-class living surface that federates the life lattice (QMC litigation, divorce/business separation, attachment/trauma processing, Hawaii Polonia ops, AI-build) with the ops factory substrate (PROJECT_CENTER STT pipeline, Filerev indices, Wells ACH, identity rooms, SESSION_GRAPH). Provides continuous high-resolution contextual/semantic/multi-dimensional awareness. Never replaces D: law; only surfaces and relates it.
 
 ## Drift Protocol
 
@@ -59,7 +60,8 @@ Transcript of Wells Fargo collection interaction (payment $2,744.31, confirmatio
 - **Figma Design System**: https://www.figma.com/design/6D00VVM6CmHQ99OKND7WdH
 - **Notion Theme Constitution**: https://app.notion.com/p/3aac0a61072881f1b31bf7ee2d369fb2
 - **GitHub**: https://github.com/NikoPikoFriko/Harmonizing_Function
+- **agent-forge-nexus**: https://github.com/NikoPikoFriko/agent-forge-nexus
 
 ## Status
 
-Constitution locked by Grok Core on 2026-07-27. Parallel execution active. First live pages generating via Gamma multi-page webpage. Anti-Perpetuation Protocol now terminal and empirically confirmed.
+Constitution locked by Grok Core on 2026-07-27. Re-anchored 2026-07-28 with Operational Console object. Parallel execution active. Life lattice + ops factory substrate now explicit under Ontology. Anti-Perpetuation Protocol remains terminal.
