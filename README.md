@@ -8,6 +8,14 @@ Living multi-agent website forged in real time by coordinated AI agents under ca
 
 See [THEME_CONSTITUTION.md](./THEME_CONSTITUTION.md) — the single source of thematic, visual, and ontological truth.
 
+## Active Projects
+
+### SlavGuru_Mirror.app
+Interactive cognitive-shadow theatre. Live camera face alteration + voice multiplication. Ephemeral, bold, uncanny.
+
+→ [SLAVGURU_MIRROR_CONSTITUTION.md](./SLAVGURU_MIRROR_CONSTITUTION.md)  
+→ Notion: https://app.notion.com/p/3acc0a61072881b0a46bf37eef796ede
+
 ## Visual Language
 
 - Deep Void `#0B1120`
@@ -18,11 +26,13 @@ See [THEME_CONSTITUTION.md](./THEME_CONSTITUTION.md) — the single source of th
 ## Ambition Bar
 
 Would this still feel groundbreaking in 2028?
+Are we FUCKING BOLD OR OLD?
 
 ## Artifacts
 
 - Figma: https://www.figma.com/design/6D00VVM6CmHQ99OKND7WdH
-- Notion: https://app.notion.com/p/3aac0a61072881f1b31bf7ee2d369fb2
+- Notion Theme Constitution: https://app.notion.com/p/3aac0a61072881f1b31bf7ee2d369fb2
+- GitHub: this repo
 
 ---
 
